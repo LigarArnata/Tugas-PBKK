@@ -1,0 +1,16 @@
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\bin\Debug\net6.0-windows\Kalkulator Sederhana_2.exe
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\bin\Debug\net6.0-windows\Kalkulator Sederhana_2.deps.json
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\bin\Debug\net6.0-windows\Kalkulator Sederhana_2.runtimeconfig.json
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\bin\Debug\net6.0-windows\Kalkulator Sederhana_2.dll
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\bin\Debug\net6.0-windows\Kalkulator Sederhana_2.pdb
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator_Sederhana_2.Form1.resources
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.csproj.GenerateResource.cache
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.AssemblyInfoInputs.cache
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.AssemblyInfo.cs
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.csproj.CoreCompileInputs.cache
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.dll
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\refint\Kalkulator Sederhana_2.dll
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.pdb
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\Kalkulator Sederhana_2.genruntimeconfig.cache
+D:\Pelajaran\PBKK\Tugas 1\Kalkulator Sederhana_2\obj\Debug\net6.0-windows\ref\Kalkulator Sederhana_2.dll
